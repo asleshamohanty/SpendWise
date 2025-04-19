@@ -34,9 +34,3 @@ Check out the project on DevPost: [SpendWise on DevPost](https://devpost.com/sof
 - **Database**: MongoDB
 - **Machine Learning**: Python (Flask), Custom AI Model
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/asleshamohanty/SpendWise.git
-   cd SpendWise
