@@ -1,5 +1,9 @@
 # SpendWise: AI-Driven Financial Behavior Modification
 
+## Hackathon Project
+
+SpendWise was our team project for the Codeathon 2025 (Hackathon by Manipal Institute of Technology), where we placed **#6** among numerous talented participants. Our goal was to create an AI-driven financial assistant that not only helps users track their expenses but also helps them build healthier financial habits through machine learning, balance prediction, and behavioural nudges. The project aims to provide young adults with the tools they need to manage their money in a fun, engaging, and proactive way.
+
 ## Problem Statement
 
 Young adults face significant challenges when it comes to managing their finances. With easy access to one-click shopping, subscription traps, and impulse-driven purchases influenced by social media, it's no wonder that saving and budgeting are often pushed to the backburner. Despite various budgeting tools available, most are passive — they only show what has already happened, after the damage is done.
@@ -103,13 +107,6 @@ SpendWise is an AI-powered financial assistant designed to help young adults mak
     pip install -r requirements.txt
     python app.py
     ```
-
----
-
-## Hackathon Project
-
-SpendWise was our team project for the Codeathon 2025 (Hackathon by Manipal Institute of Technology), where we placed **#6** among numerous talented participants. Our goal was to create an AI-driven financial assistant that not only helps users track their expenses but also helps them build healthier financial habits through machine learning, balance prediction, and behavioural nudges. The project aims to provide young adults with the tools they need to manage their money in a fun, engaging, and proactive way.
-
 ---
 
 ## Contributing
